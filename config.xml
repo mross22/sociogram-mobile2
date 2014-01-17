@@ -9,8 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <gap:plugin name="com.phonegap.plugins.facebookconnect">
+    <plugin name="com.phonegap.plugins.facebookconnect">
 	<param name="APP_ID" value="353230108150364" />
 	<param name="APP_NAME" value="sociogram-mobile" />
-    </gap:plugin>
+    </plugin>
 </widget>
